@@ -10,6 +10,9 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 日期管理工具
+ */
 public class DateTimeUtils {
 	private static Logger log = LogManager.getLogger(DateTimeUtils.class);
 
