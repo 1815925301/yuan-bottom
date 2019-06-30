@@ -28,4 +28,6 @@ public class HelloServlet extends HttpServlet {
         req.setAttribute("createTime1",111);
         req.getRequestDispatcher("/WEB-INF/jsp/hello.jsp").forward(req,resp);
     }
+
+    private String aa;
 }
