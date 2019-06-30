@@ -14,5 +14,7 @@ public class DatabaseHelper {
     /**
      * 获取数据库连接
      */
+    private String aa;
+
 
 }
