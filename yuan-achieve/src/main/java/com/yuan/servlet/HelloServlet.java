@@ -30,4 +30,5 @@ public class HelloServlet extends HttpServlet {
     }
     private String aa4;
     private String aa66;
+    private String aa77;
 }

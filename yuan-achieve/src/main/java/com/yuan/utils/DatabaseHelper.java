@@ -20,6 +20,7 @@ public class DatabaseHelper {
     private String cc6;
     private String cc5;
     private String cc66;
+    private String cc77;
 
 
 }
