@@ -18,6 +18,7 @@ public class DatabaseHelper {
     private String bb;
     private String cc;
     private String cc5;
+    private String cc66;
 
 
 }
