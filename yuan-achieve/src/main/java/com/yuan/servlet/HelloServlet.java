@@ -29,6 +29,4 @@ public class HelloServlet extends HttpServlet {
         req.getRequestDispatcher("/WEB-INF/jsp/hello.jsp").forward(req,resp);
     }
     private String aa4;
-    private String aa66;
-    private String aa77;
 }
