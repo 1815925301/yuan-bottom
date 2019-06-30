@@ -17,9 +17,6 @@ public class DatabaseHelper {
     private String aa;
     private String bb;
     private String cc;
-    private String aa2;
-    private String bb2;
-    private String cc2;
 
 
 }
