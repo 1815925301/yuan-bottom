@@ -21,7 +21,7 @@
         <mybatis.version>3.2.6</mybatis.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.version>4.3.11.RELEASE</spring.version>
-        <log4j2.version>2.6.2</log4j2.version>
+        <log4j2.version>2.13.3</log4j2.version>
     </properties>
     <!--
     如果某些依赖只需参与编译，而无需打包（例如，tomact自带了Servlet和JSP所对应的jar包），可将其scope设置为provided。
